@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://static.wikia.nocookie.net/videojuego/images/0/02/DevilJin.jpg/revision/latest?cb=20070619153903
+avatar: https://imagenes.20minutos.es/files/image_640_auto/uploads/imagenes/2021/09/01/marcus-chong-tanque-matrix-620x356.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
